@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/activity_nav.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/app_bar_nav.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/chart_machine_salle.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/content_nav.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/etudiant_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/fragment_home.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/fragment_salle.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/liste_machine_salle_fragment.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/machine_item.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/machine_salle_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/machinesalle_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/salle_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/spinner_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/splash_activity.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/update_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Sqlite3/app/src/main/res/menu/nav.xml" value="0.234375" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/drawable/button_bg.xml" value="0.2045" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/drawable/customshape.xml" value="0.1615" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/drawable/drawable_background_button_welcome_view.xml" value="0.152" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/drawable/edit_text_bg.xml" value="0.2045" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.174" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.174" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/drawable/side_nav_bar.xml" value="0.174" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/activity_home.xml" value="0.234375" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/activity_list_salle.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/activity_liste_machines.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/activity_liste_machines_salles.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/activity_machi_salle.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/activity_main_machine.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/activity_modifier.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/activity_modifier_machine.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/activity_nav.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/app_bar_nav.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/content_nav.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/fragment_gallery.xml" value="0.234375" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/fragment_salle.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/fragment_sallr.xml" value="0.234375" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/liste_machine_salle_fragment.xml" value="0.234375" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/machine_item.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/machine_salle_fragment.xml" value="0.5107832009080591" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/machinesalle_item.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/navList_fragment.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/nav_header_nav.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/navlist_fragment.xml" value="0.12545289855072464" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/salle_item.xml" value="0.234375" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/salleragment.xml" value="0.234375" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/spinner_item.xml" value="0.234375" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/splash_activity.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/update_fragment.xml" value="0.234375" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/updatemachine_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/layout/welcome.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/menu/menu_list_salle.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/menu/menu_main.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/menu/menu_salle.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Desktop/Sqlite3/app/src/main/res/menu/nav.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/activity_home.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/activity_list_salle.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/activity_liste_machines.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/activity_liste_machines_salles.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/activity_machi_salle.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/activity_main2.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/activity_main_machine.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/activity_modifier.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/activity_modifier_machine.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/machine_item.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/machinesalle_item.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/salle_item.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Lachgar/AndroidStudioProjects/Sqlite3/app/src/main/res/layout/spinner_item.xml" value="0.15104166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

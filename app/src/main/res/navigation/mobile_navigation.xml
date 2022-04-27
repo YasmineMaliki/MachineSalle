@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="ma.projet.sqlite.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="ma.projet.sqlite.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+
+    <fragment
+        android:id="@+id/nav_salle"
+        android:name="ma.projet.sqlite.ui.salle.SalleFragment"
+        android:label="@string/menu_salle"
+        tools:layout="@layout/fragment_salle" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="ma.projet.sqlite.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_machine_salle"
+        android:name="ma.projet.sqlite.ui.machinesalle.MachineSalleFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/machine_salle_fragment" />
+
+    <fragment
+        android:id="@+id/nav_nb_msalle"
+        android:name="ma.projet.sqlite.ui.chart.MachineParSalleFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/chart_machine_salle" />
+
+    <fragment
+        android:id="@+id/nav_etudiant"
+        android:name="ma.projet.sqlite.ui.etudiant.EtudiantFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/etudiant_fragment" />
+
+
+</navigation>
